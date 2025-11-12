@@ -158,7 +158,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":1.79934561252594,"g":18.16482162475586,"b":15.354589462280274,"a":1.0},"time":0.0},{"color":{"r":7.906699180603027,"g":0.0,"b":0.0,"a":1.0},"time":0.1911802887916565},{"color":{"r":3.7321317195892336,"g":3.305202007293701,"b":0.33448341488838198,"a":1.0},"time":0.7000076174736023}],"alphaKeys":[{"alpha":0.8784313797950745,"time":0.0},{"alpha":0.3607843220233917,"time":0.994125247001648}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":1.79934561252594,"g":18.16482162475586,"b":15.354589462280274,"a":1.0},"time":0.0},{"color":{"r":33.896759033203128,"g":0.0,"b":0.0,"a":1.0},"time":0.25882354378700259},{"color":{"r":3.7321317195892336,"g":3.305202007293701,"b":0.33448341488838198,"a":1.0},"time":0.8235294222831726}],"alphaKeys":[{"alpha":0.8784313797950745,"time":0.0},{"alpha":0.3607843220233917,"time":0.994125247001648}],"gradientMode":0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -2587,7 +2587,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":1.79934561252594,"g":18.16482162475586,"b":15.354589462280274,"a":1.0},"time":0.0},{"color":{"r":7.906699180603027,"g":0.0,"b":0.0,"a":1.0},"time":0.1911802887916565},{"color":{"r":3.7321317195892336,"g":3.305202007293701,"b":0.33448341488838198,"a":1.0},"time":0.7000076174736023}],"alphaKeys":[{"alpha":0.8784313797950745,"time":0.0},{"alpha":0.3607843220233917,"time":0.994125247001648}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":1.79934561252594,"g":18.16482162475586,"b":15.354589462280274,"a":1.0},"time":0.0},{"color":{"r":33.896759033203128,"g":0.0,"b":0.0,"a":1.0},"time":0.25882354378700259},{"color":{"r":3.7321317195892336,"g":3.305202007293701,"b":0.33448341488838198,"a":1.0},"time":0.8235294222831726}],"alphaKeys":[{"alpha":0.8784313797950745,"time":0.0},{"alpha":0.3607843220233917,"time":0.994125247001648}],"gradientMode":0}'
     m_Space: -1
   m_Property:
     name: o
