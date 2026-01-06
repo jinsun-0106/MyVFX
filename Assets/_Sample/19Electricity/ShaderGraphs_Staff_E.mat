@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-172972338144749870
+--- !u!114 &-6814513247205460146
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Sttaf_E
-  m_Shader: {fileID: -6465566751694194690, guid: d24d1a92ef0b2164c853bddbf887690c, type: 3}
+  m_Name: ShaderGraphs_Staff_E
+  m_Shader: {fileID: -6465566751694194690, guid: 93521aafaee806f4593eb58fe30e7b5f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -41,15 +41,15 @@ Material:
         m_Texture: {fileID: 2800000, guid: 621f3c3bad034ca4db1a390fec1d288a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _MetallicMap:
-        m_Texture: {fileID: 0}
+    - _MetalicMap:
+        m_Texture: {fileID: 2800000, guid: 57315863b81887c43a0e41122b38f5e2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: d334a5116e905d64fbb02cbf7226cafa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Occlusion:
+    - _OcclusionMap:
         m_Texture: {fileID: 2800000, guid: 07d90f484be83674bb243ff1153baea9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -67,12 +67,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ElectricityScale: 15
+    - _ElectricityScale: 16
     - _ElectricityWidth: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 10.53257, g: 11.35417, b: 1.23182, a: 1}
+    - _ElectricityColor: {r: 4.1592374, g: 17.811491, b: 77.80214, a: 0}
     - _ElectricitySpeed: {r: 0.1, g: -0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
